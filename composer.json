@@ -29,7 +29,7 @@
         "php": ">=7.0",
         "yiisoft/yii2": "*"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": false,
     "autoload": {
         "psr-4": {
