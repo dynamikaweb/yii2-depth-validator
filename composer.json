@@ -1,5 +1,5 @@
 {
-    "name": "dynamikaweb/yii2-depth-validator",
+    "name": "dynamikaweb/yii2-reference-validator",
     "description": "Validator to protect references that loop or are too deep.",
     "type": "yii2-extension",
     "keywords": [
@@ -22,8 +22,8 @@
         }
     ],
     "support": {
-        "issues": "http://github.com/dynamikaweb/yii2-depth-validator/issues",
-        "source": "http://github.com/dynamikaweb/yii2-depth-validator"
+        "issues": "http://github.com/dynamikaweb/yii2-reference-validator/issues",
+        "source": "http://github.com/dynamikaweb/yii2-reference-validator"
     },
     "require": {
         "php": ">=7.0",
@@ -33,7 +33,7 @@
     "prefer-stable": false,
     "autoload": {
         "psr-4": {
-            "dynamikaweb\\depth\\": "src"
+            "dynamikaweb\\reference\\": "src"
         }
     }
 }
